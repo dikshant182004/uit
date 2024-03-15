@@ -79,7 +79,8 @@ body {
     animation-delay: 2s;
 }
 
-.logo-container h1{
+.logo-container h1 p{
+    user-select: none;
     color: white;
 }
 
